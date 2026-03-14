@@ -9,6 +9,11 @@ This site collects and showcases collaborative artifacts, technical experiments,
 
 ## 🔧 Active Projects
 
+- [**Conway's Game of Life**](https://github.com/Willtech/game-of-life)  
+  A beautiful, interactive implementation of Conway's Game of Life built with React and HTML5 Canvas.  
+  Features glowing neon cells, classic pattern presets, and full playback controls.  
+  Active webpage: [willtech.github.io/game-of-life/#Gosper Glider Gun](https://willtech.github.io/game-of-life/#Gosper%20Glider%20Gun) 
+
 - [**Text Transposer**](https://github.com/Willtech/transposer)  
   A client-side tool that remaps letters into a custom cipher.  
   Built with HTML, CSS, and JavaScript.  
