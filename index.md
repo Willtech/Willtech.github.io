@@ -88,7 +88,7 @@ This site collects and showcases collaborative artifacts, technical experiments,
 
 ## 📂 License
 
-All projects are licensed under the [MIT License](https://github.com/Willtech/transposer/blob/main/LICENSE).
+All projects are licensed under the [MIT License](https://github.com/Willtech/transposer/blob/master/LICENSE).
 
 ---
 
